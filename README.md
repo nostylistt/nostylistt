@@ -1,6 +1,7 @@
 # About me
 
 **Full-Stack Developer · AI Integrations · Automation**
+
 My work sits at the intersection of frontend development, backend integrations, and automation. Expertise in intuitive interfaces, maintainable code, and solutions that solve real issues.
 
 ### Main Tech Stack
