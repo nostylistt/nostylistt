@@ -1,6 +1,6 @@
-# About me
+<img src="https://i.ibb.co/S43SZgty/About.jpg" alt="About" border="0">
 
-**Full-Stack Developer**
+**Role: Full-Stack Developer**
 
 My main expertise is web development, but I also work on personal projects, which include web scraping and reverse engineering.
 
