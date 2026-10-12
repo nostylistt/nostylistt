@@ -1,32 +1,32 @@
 # About me
 
-**Full-Stack Developer · AI Integrations · Automation**
+**Full-Stack Developer**
 
-My work sits at the intersection of frontend development, backend integrations, and automation. Main expertise is web development; also work on personal projects, which include scraping, data processing and reverse engineering.
+My main expertise is web development, but I also work on personal projects, which include web scraping and reverse engineering.
 
 ### Main Tech Stack
 
 **Frontend**  
-React (w Zustand, Redux) · TS · JS · Next.js · CSS / SCSS · Tailwind / Bootstrap
+React · Next.js · TypeScript · JavaScript · Zustand · Redux · Tailwind CSS · SCSS · Bootstrap
 
 **Backend & APIs**  
-Node.js · Express · REST · Webhooks · Socket.io
+Node.js · Express · REST APIs · Webhooks · Socket.IO
 
 **AI & Automation**  
-OpenAI / Antropic / Gemini API · Prompts / RAG / MCP · Bots · Node-RED · AI Agents & Workflows
+OpenAI · Anthropic · Gemini APIs · Prompt Engineering · RAG · MCP · AI Agents & Workflows · Bots · Node-RED
 
 **Tools & Infrastructure**  
-Git · GitHub Actions · Linux · Nginx & Apache · VPS & VDS · Docker · Cloudflare
+Git · GitHub Actions · Linux · Docker · Nginx · Apache · Cloudflare · VPS / VDS
 
+<details>
+<summary><strong>Additional Technical Interests</strong></summary>
 
-### Secondary Tech Stack
+**Web Scraping & Data Processing**  
+Puppeteer · Playwright · Cheerio · Axios · Fetch API
 
-**Backend**  
-Python
+**Systems & Reverse Engineering**  
+Java · C++ · Memory Analysis · Dynamic Binary Analysis · DLL Injection · Function Hooking · API Interception · JVM Internals
 
-**Systems & Low-Level**  
-Java · C++ · Memory Management · Reverse Engineering
-
-*Work with Memory Inspection, Pointer Chaining, Dynamic Binary Analysis, Dynamic Link Library (DLL) Injection, Function Hooking, API Interception, JVM manipulation etc*
+</details>
 
 ---
