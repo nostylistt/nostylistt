@@ -19,8 +19,7 @@ OpenAI · Anthropic · Gemini APIs · Prompt Engineering · RAG · MCP · AI Age
 Git · GitHub Actions · Linux · Docker · Nginx · Apache · Cloudflare · VPS / VDS
 
 <details>
-<summary><strong>Additional Technical Interests</strong></summary>
-
+<summary><strong>Additional Stack</strong></summary>
 
 **Web Scraping & Data Processing**  
 Puppeteer · Playwright · Cheerio · Axios · Fetch API
