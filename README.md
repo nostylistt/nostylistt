@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/93nZD2K1/About-1.jpg" alt="About-1" border="0">
+<img src="https://i.ibb.co/93nZD2K1/About-1.jpg" alt="About-1" border="0"></img>
 
 **Role: Full-Stack Developer**
 
