@@ -2,7 +2,7 @@
 
 **Role: Full-Stack Developer**
 
-My main expertise is web development, but I also work on personal projects, which include web scraping and reverse engineering.
+My primary focus is full-stack web development and AI integrations.
 
 ### Main Tech Stack
 
@@ -18,6 +18,7 @@ OpenAI · Anthropic · Gemini APIs · Prompt Engineering · RAG · MCP · AI Age
 **Tools & Infrastructure**  
 Git · GitHub Actions · Linux · Docker · Nginx · Apache · Cloudflare · VPS / VDS
 
+Outside my main work, I explore web scraping, data processing, and low-level software analysis.
 <details>
 <summary><strong>Additional Stack</strong></summary>
 
