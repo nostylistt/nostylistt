@@ -20,11 +20,12 @@ Git · GitHub Actions · Linux · Nginx & Apache · VPS & VDS · Docker · Cloud
 
 ### Secondary Tech Stack
 
-**Backend**
+**Backend**  
 Python · Java Spring
 
-**Reverse-engineering**
-C++
+**Reverse-engineering**  
+Java · C++
+
 ---
 
 *Always curious about better ways to build things.*
