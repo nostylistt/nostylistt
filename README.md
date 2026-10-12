@@ -20,7 +20,7 @@ Git · GitHub Actions · Linux · Docker · Nginx · Apache · Cloudflare · VPS
 
 <details>
 <summary><strong>Additional Technical Interests</strong></summary>
-
+<br>
 **Web Scraping & Data Processing**  
 Puppeteer · Playwright · Cheerio · Axios · Fetch API
 
