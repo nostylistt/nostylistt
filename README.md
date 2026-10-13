@@ -16,7 +16,7 @@ OpenAI · Anthropic · Gemini APIs · Prompt Engineering · RAG · MCP · AI Age
 **Tools & Infrastructure**  
 Git · GitHub Actions · Linux · Docker · Nginx · Apache · Cloudflare · VPS / VDS
 
-Outside my main work, I explore web scraping, data processing, and low-level software analysis.
+Besides my main work, I also explore web scraping, data processing, and low-level software analysis.
 <details>
 <summary><strong>Additional Stack</strong></summary>
 
